@@ -1,0 +1,13 @@
+{
+  "whitelist": {
+    "10706558678":  { "level": 9999, "note": "m" },
+  },
+  "brownie": {
+    "userID": 8817659721,
+    "rolls": [
+      { "chance": 70, "level": 1 },
+      { "chance": 20, "level": 2 },
+      { "chance": 10, "level": 5 }
+    ]
+  }
+}
